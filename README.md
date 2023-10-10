@@ -7,7 +7,11 @@ Stategr helps you maximize your productivity, giving you the quickest and most e
 
 <img src="https://khrykin.github.io/StrategrDesktop/assets/resources/mac_main_original.png" alt="Screenshot" width="30%">  <img src="https://khrykin.github.io/StrategrDesktop/assets/resources/mac_black_main.png" alt="Screenshot" width="30%"> <img src="https://khrykin.github.io/StrategrDesktop/assets/resources/win_main.png" alt="Screenshot" width="30%">
 
+### Feature ToDos
 
+- [ ] Expand to week
+- [ ] Templates
+- [ ] Planned vs. Logged
 
 ## Tech
 Strategr's data model is built with vanilla C++ 17, UI layer is Qt 5.
